@@ -14,3 +14,16 @@ Beer education gamified, guess what hops, yeast or malt are in an unknown beer. 
 ##Long Description
 
 Mystery Flight allows a user to choose a theme for a mystery flight, that is three beers that only the bartender and the app knows about.  In the hackathon the bartender knew which beers to pour and how to order them through a back end "point of sale" website, but in the app available here in "demo mode" the beers also display in a toast in the app (so hand the phone to a bartender when picking the theme).  Once the beers are poured you are presented with three frost beer mugs representing each taster.  Pick one (it will be grayed out on subsequent visits to this screen) and then choose your challenge, which are ranked by difficulty and points you can earn.  After smelling, tasting, and using your senses on your delicious taster of beer, choose to identify a hop, malt or yeast in your beer.  Whether you choose correctly or incorrectly review curated educational content about the correct selection on the answer screen.  Next you are brought to the beer detail screen which reveals the beer.  This includes a picture of the beer in bottle or can and many facts about the beer.  You repeat this process until all three beers are completed at which point you are brought to the final screen.  It reveals all three beers.  It also has an option to play again, which brings you back to the theme selection screen.
+
+##Screenshots
+
+![Flight theme selection](https://github.com/mscheel/MysteryFlight/raw/master/images/screen_1_theme_picker.png "Flight theme selection")
+![Point of sale back end web page](https://github.com/mscheel/MysteryFlight/raw/master/images/pos-backend.png "Point of sale back end web page")
+![Beer Picker](https://github.com/mscheel/MysteryFlight/raw/master/images/screen_2_beer_picker.png "Beer Picker")
+![Challenge Picker](https://github.com/mscheel/MysteryFlight/raw/master/images/screen_3_challenge_picker.png "Challenge Picker")
+![Answer a question](https://github.com/mscheel/MysteryFlight/raw/master/images/screen_4_answer_question.png "Answer a question")
+![Answer revealed](https://github.com/mscheel/MysteryFlight/raw/master/images/screen_5_answer_reveal.png "Answer revealed")
+![Beer reveal 1](https://github.com/mscheel/MysteryFlight/raw/master/images/screen_6_beer_reveal_a.png "Beer reveal 1")
+![Beer reveal 2](https://github.com/mscheel/MysteryFlight/raw/master/images/screen_6_beer_reveal_b.png "Beer reveal 2")
+![Beer reveal 3](https://github.com/mscheel/MysteryFlight/raw/master/images/screen_6_beer_reveal_c.png "Beer reveal 3")
+![Congrats](https://github.com/mscheel/MysteryFlight/raw/master/images/screen_7_congrats.png "Congrats")
