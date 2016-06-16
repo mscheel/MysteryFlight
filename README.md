@@ -1,6 +1,8 @@
 # MysteryFlight
 Beer education gamified, guess what hops, yeast or malt are in an unknown beer.  Project from the [Avery IPAs and APIs Hackathon](https://www.averybrewing.com/events/ipas-and-apis-hackathon) held in Boulder, CO June 10-12, 2016.  Our team [U+1F37A](https://docs.google.com/presentation/d/1jr8Z1cBc9G7TnuylHbfCEbJzHBW64ZlOe44RApn06RE/edit?pref=2&pli=1#slide=id.g14e40deaa6_0_66) (Josh, Emily, Liam and Mark) won first place and each of us were awarded a free year of awesome Avery beer.
 
+![Walk through](https://github.com/mscheel/MysteryFlight/raw/master/images/walkthroughgif.gif "Walk through")
+
 ##Instructions
 1. Download APK to android device and install
 2. Launch app
