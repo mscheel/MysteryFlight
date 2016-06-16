@@ -17,9 +17,13 @@ Mystery Flight allows a user to choose a theme for a mystery flight, that is thr
 
 ##Walk through
 
+This is the app that was demo'd on June 11, except the backend it is pointed too has one extra theme "expert", you can only see this difference on the first screen.
+
 ![Walk through](https://github.com/mscheel/MysteryFlight/raw/master/images/walkthroughgif.gif "Walk through")
 
 ##Screenshots
+
+These screenshots are from the original app, they do not include updates since June 11, 2016.
 
 ![Flight theme selection](https://github.com/mscheel/MysteryFlight/raw/master/images/screen_1_theme_picker.png "Flight theme selection")
 ![Point of sale back end web page](https://github.com/mscheel/MysteryFlight/raw/master/images/pos-backend.png "Point of sale back end web page")
@@ -31,3 +35,10 @@ Mystery Flight allows a user to choose a theme for a mystery flight, that is thr
 ![Beer reveal 2](https://github.com/mscheel/MysteryFlight/raw/master/images/screen_6_beer_reveal_b.png "Beer reveal 2")
 ![Beer reveal 3](https://github.com/mscheel/MysteryFlight/raw/master/images/screen_6_beer_reveal_c.png "Beer reveal 3")
 ![Congrats](https://github.com/mscheel/MysteryFlight/raw/master/images/screen_7_congrats.png "Congrats")
+
+##Updates
+
+After the hackathon completed we have made some improvements.
+
+* Added ability to tweet from beer reveal and congrats screens.
+* Beers are revealed in app now to make it easier to play on phone, hand phone to bartender, tell them your theme, have them select and note the beers (they display for 3.5 seconds) and then give the phone back to you
